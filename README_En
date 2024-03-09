@@ -1,0 +1,30 @@
+# Automated Image Recognition
+### **Lazy Person Special**
+
+<img src="https://ts1.cn.mm.bing.net/th/id/R-C.1895df2fde1b5c8fddad1046b3e4d79f?rik=fG%2fypE855oa5lA&riu=http%3a%2f%2fwww.spasvo.com%2fckfinder%2fuserfiles%2fimages%2f2022101948937180.jpg&ehk=6n4Lc2nO66%2fup2%2fAGkwOB93OaNE7WCm52lUEDDHfj6k%3d&risl=&pid=ImgRaw&r=0" width="50%">
+
+## Functionality
+
+Supported features in the latest version
+
+| Feature                 |     Supported      |
+|-------------------------|:------------------:|
+| <kbd>Image Recognition  |   <kbd>Supported   |
+| <kbd>Mouse Operation    |   <kbd>Supported   |
+| <kbd>Keyboard Operation | <kbd>Not supported |
+| <kbd>Text Recognition   | <kbd>Not supported |
+
+## Introduction
+
+### **Have you ever felt frustrated by repetitive tasks?**
+### **Don't worry, this software can solve all your troubles. Developed using 100% Python.**
+
+## **How to Use?**
+### **Click on Releases to download**
+### **Open the program**
+### **Rename the image to be recognized as "target_image"**
+### **Drop the renamed image into the "Config\picture" folder in the program's execution directory (generated on the first program startup)**
+
+## **FAQ**
+### **Question: What to do if the mouse goes out of control**
+### **Answer: Press F8 (if it doesn't work, press multiple times)**
