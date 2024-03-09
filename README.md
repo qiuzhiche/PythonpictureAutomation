@@ -1,4 +1,7 @@
 # 自动化图像识别
+[中文](https://github.com/qiuzhiche/PythonpictureAutomation/blob/main/README.md)
+[English](https://github.com/qiuzhiche/PythonpictureAutomation/blob/main/README_En)
+[Русский](https://github.com/qiuzhiche/PythonpictureAutomation/blob/main/README_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)
 ### **懒 人 专 用**
 
 <img src="https://ts1.cn.mm.bing.net/th/id/R-C.1895df2fde1b5c8fddad1046b3e4d79f?rik=fG%2fypE855oa5lA&riu=http%3a%2f%2fwww.spasvo.com%2fckfinder%2fuserfiles%2fimages%2f2022101948937180.jpg&ehk=6n4Lc2nO66%2fup2%2fAGkwOB93OaNE7WCm52lUEDDHfj6k%3d&risl=&pid=ImgRaw&r=0" width="50%">
